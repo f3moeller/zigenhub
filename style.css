@@ -1,0 +1,30 @@
+div{
+    background-color: antiquewhite;
+    width: 107%;
+    position: relative;
+    left: -20px;
+    height: 130px;
+}
+html{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 50%;
+    padding-left: 25%;
+}
+h2{
+    display: inline;
+    padding-left: 20px;
+}
+#home{
+    float: left;
+}
+#prem{
+    float: right;
+}
+hr{
+    clear: both;
+}
